@@ -1,0 +1,2800 @@
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 15 
+ Total num of iter in CN  = 40 
+ Total num of CG          = 76 
+ Total num of eigendecom  = 56 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.07e-06 
+ The infeasibility of X*  === 1.38934592e-07 
+ Final ||X-G||            ===== 4.72510670e+00 
+ Primal function value    ===== 1.11633167e+01 
+ Computing time           ======= 1.2(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 15 
+ Total num of iter in CN  = 40 
+ Total num of CG          = 76 
+ Total num of eigendecom  = 56 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.07e-06 
+ The infeasibility of X*  === 1.38934592e-07 
+ Final ||X-G||            ===== 4.72510670e+00 
+ Primal function value    ===== 1.11633167e+01 
+ Computing time           ======= 1.1(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 5 
+ Num of calling CN        = 49 
+ Total num of iter in CN  = 104 
+ Total num of CG          = 212 
+ Total num of eigendecom  = 154 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.78e-06 
+ The infeasibility of X*  === 9.61975571e-08 
+ Final ||X-G||            ===== 4.72699036e+00 
+ Primal function value    ===== 1.11722189e+01 
+ Computing time           ======= 2.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 12 
+ Total num of iter in CN  = 31 
+ Total num of CG          = 67 
+ Total num of eigendecom  = 44 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.41e-06 
+ The infeasibility of X*  === 1.78545969e-08 
+ Final ||X-G||            ===== 4.83278973e+00 
+ Primal function value    ===== 1.16779283e+01 
+ Computing time           ======= 0.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 15 
+ Total num of iter in CN  = 40 
+ Total num of CG          = 76 
+ Total num of eigendecom  = 56 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.03e-06 
+ The infeasibility of X*  === 1.38794199e-07 
+ Final ||X-G||            ===== 4.72493723e+00 
+ Primal function value    ===== 1.11625159e+01 
+ Computing time           ======= 1.1(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 34 
+ Total num of iter in CN  = 75 
+ Total num of CG          = 154 
+ Total num of eigendecom  = 110 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.89e-06 
+ The infeasibility of X*  === 8.05039751e-08 
+ Final ||X-G||            ===== 4.72800227e+00 
+ Primal function value    ===== 1.11770028e+01 
+ Computing time           ======= 2.0(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 29 
+ Total num of iter in CN  = 65 
+ Total num of CG          = 133 
+ Total num of eigendecom  = 95 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.52e-06 
+ The infeasibility of X*  === 6.20579877e-08 
+ Final ||X-G||            ===== 4.72750484e+00 
+ Primal function value    ===== 1.11746510e+01 
+ Computing time           ======= 1.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 14 
+ Total num of iter in CN  = 41 
+ Total num of CG          = 78 
+ Total num of eigendecom  = 56 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.24e-06 
+ The infeasibility of X*  === 1.42407437e-07 
+ Final ||X-G||            ===== 4.72439617e+00 
+ Primal function value    ===== 1.11599596e+01 
+ Computing time           ======= 1.1(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 14 
+ Total num of iter in CN  = 41 
+ Total num of CG          = 79 
+ Total num of eigendecom  = 56 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.31e-06 
+ The infeasibility of X*  === 1.42938492e-07 
+ Final ||X-G||            ===== 4.72393095e+00 
+ Primal function value    ===== 1.11577618e+01 
+ Computing time           ======= 1.1(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 9 
+ Total num of iter in CN  = 30 
+ Total num of CG          = 57 
+ Total num of eigendecom  = 40 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.59e-06 
+ The infeasibility of X*  === 1.85147205e-07 
+ Final ||X-G||            ===== 4.72293033e+00 
+ Primal function value    ===== 1.11530354e+01 
+ Computing time           ======= 0.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 23 
+ Total num of iter in CN  = 57 
+ Total num of CG          = 117 
+ Total num of eigendecom  = 81 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.98e-06 
+ The infeasibility of X*  === 1.56001129e-07 
+ Final ||X-G||            ===== 4.72333075e+00 
+ Primal function value    ===== 1.11549267e+01 
+ Computing time           ======= 1.6(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 7 
+ Total num of iter in CN  = 28 
+ Total num of CG          = 53 
+ Total num of eigendecom  = 36 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.70e-06 
+ The infeasibility of X*  === 3.51611223e-07 
+ Final ||X-G||            ===== 4.72194170e+00 
+ Primal function value    ===== 1.11483667e+01 
+ Computing time           ======= 0.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  50 
+ Fixed upper-diag entries  =  50 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 22 
+ Total num of CG          = 34 
+ Total num of eigendecom  = 34 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.91e-06 
+ The infeasibility of X*  === 2.90741611e-08 
+ Final ||X-G||            ===== 1.75255392e+01 
+ Primal function value    ===== 1.53572262e+02 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  50 
+ Fixed upper-diag entries  =  50 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 23 
+ Total num of CG          = 34 
+ Total num of eigendecom  = 35 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.86e-06 
+ The infeasibility of X*  === 1.72880788e-08 
+ Final ||X-G||            ===== 1.75255322e+01 
+ Primal function value    ===== 1.53572139e+02 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  50 
+ Fixed upper-diag entries  =  50 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 10 
+ Total num of iter in CN  = 21 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 32 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 4.01e-06 
+ The infeasibility of X*  === 8.14127614e-08 
+ Final ||X-G||            ===== 1.75256027e+01 
+ Primal function value    ===== 1.53573375e+02 
+ Computing time           ======= 0.6(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  50 
+ Fixed upper-diag entries  =  50 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 12 
+ Total num of iter in CN  = 25 
+ Total num of CG          = 36 
+ Total num of eigendecom  = 38 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.98e-06 
+ The infeasibility of X*  === 4.94509960e-07 
+ Final ||X-G||            ===== 1.75255311e+01 
+ Primal function value    ===== 1.53572120e+02 
+ Computing time           ======= 0.6(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  50 
+ Fixed upper-diag entries  =  50 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 9 
+ Total num of iter in CN  = 20 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 30 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 3.11e-06 
+ The infeasibility of X*  === 1.56953177e-07 
+ Final ||X-G||            ===== 1.75255480e+01 
+ Primal function value    ===== 1.53572416e+02 
+ Computing time           ======= 0.6(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  50 
+ Fixed upper-diag entries  =  50 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 9 
+ Total num of iter in CN  = 19 
+ Total num of CG          = 29 
+ Total num of eigendecom  = 29 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 3.49e-06 
+ The infeasibility of X*  === 4.45536515e-08 
+ Final ||X-G||            ===== 1.75255541e+01 
+ Primal function value    ===== 1.53572522e+02 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  50 
+ Fixed upper-diag entries  =  50 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 9 
+ Total num of iter in CN  = 20 
+ Total num of CG          = 29 
+ Total num of eigendecom  = 30 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.75e-06 
+ The infeasibility of X*  === 4.57064944e-08 
+ Final ||X-G||            ===== 1.75256554e+01 
+ Primal function value    ===== 1.53574299e+02 
+ Computing time           ======= 0.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 15 
+ Total num of iter in CN  = 40 
+ Total num of CG          = 76 
+ Total num of eigendecom  = 56 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.07e-06 
+ The infeasibility of X*  === 1.38934592e-07 
+ Final ||X-G||            ===== 4.72510670e+00 
+ Primal function value    ===== 1.11633167e+01 
+ Computing time           ======= 1.0(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 5 
+ Num of calling CN        = 49 
+ Total num of iter in CN  = 104 
+ Total num of CG          = 212 
+ Total num of eigendecom  = 154 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.78e-06 
+ The infeasibility of X*  === 9.61975571e-08 
+ Final ||X-G||            ===== 4.72699036e+00 
+ Primal function value    ===== 1.11722189e+01 
+ Computing time           ======= 13.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   1 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 16 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 1 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.39e-10 
+ The infeasibility of X*  === 3.11468503e-08 
+ Final ||X-G||            ===== 2.25428202e+01 
+ Primal function value    ===== 2.54089370e+02 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   2 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 24 
+ Total num of iter in CN  = 75 
+ Total num of CG          = 173 
+ Total num of eigendecom  = 100 
+ The rank of  X*          === 2 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.51e-06 
+ The infeasibility of X*  === 3.68400062e-09 
+ Final ||X-G||            ===== 1.32789339e+01 
+ Primal function value    ===== 8.81650423e+01 
+ Computing time           ======= 1.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   3 
+ ---------------------------------------------------- 
+ Num of pen level         = 6 
+ Num of calling CN        = 25 
+ Total num of iter in CN  = 67 
+ Total num of CG          = 155 
+ Total num of eigendecom  = 93 
+ The rank of  X*          === 3 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.61e-06 
+ The infeasibility of X*  === 2.86523813e-08 
+ Final ||X-G||            ===== 9.82045955e+00 
+ Primal function value    ===== 4.82207129e+01 
+ Computing time           ======= 1.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   4 
+ ---------------------------------------------------- 
+ Num of pen level         = 6 
+ Num of calling CN        = 22 
+ Total num of iter in CN  = 59 
+ Total num of CG          = 144 
+ Total num of eigendecom  = 82 
+ The rank of  X*          === 4 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.20e-06 
+ The infeasibility of X*  === 5.32717925e-09 
+ Final ||X-G||            ===== 7.68217697e+00 
+ Primal function value    ===== 2.95079215e+01 
+ Computing time           ======= 1.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   5 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 13 
+ Total num of iter in CN  = 45 
+ Total num of CG          = 100 
+ Total num of eigendecom  = 59 
+ The rank of  X*          === 5 
+ The rank error           === 0.00e+00 
+ The rel func error       === 6.53e-06 
+ The infeasibility of X*  === 2.84096891e-09 
+ Final ||X-G||            ===== 6.06261522e+00 
+ Primal function value    ===== 1.83776517e+01 
+ Computing time           ======= 1.1(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   6 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 7 
+ Total num of iter in CN  = 25 
+ Total num of CG          = 54 
+ Total num of eigendecom  = 33 
+ The rank of  X*          === 6 
+ The rank error           === 0.00e+00 
+ The rel func error       === 2.70e-06 
+ The infeasibility of X*  === 8.32006428e-08 
+ Final ||X-G||            ===== 5.45190366e+00 
+ Primal function value    ===== 1.48616267e+01 
+ Computing time           ======= 0.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 17 
+ Total num of iter in CN  = 47 
+ Total num of CG          = 92 
+ Total num of eigendecom  = 65 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.72e-06 
+ The infeasibility of X*  === 1.20184546e-07 
+ Final ||X-G||            ===== 4.72621634e+00 
+ Primal function value    ===== 1.11685605e+01 
+ Computing time           ======= 1.2(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   8 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 9 
+ Total num of iter in CN  = 28 
+ Total num of CG          = 52 
+ Total num of eigendecom  = 38 
+ The rank of  X*          === 8 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.43e-06 
+ The infeasibility of X*  === 1.23632946e-07 
+ Final ||X-G||            ===== 4.21646751e+00 
+ Primal function value    ===== 8.88929915e+00 
+ Computing time           ======= 0.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   9 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 32 
+ Total num of CG          = 63 
+ Total num of eigendecom  = 44 
+ The rank of  X*          === 9 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.40e-06 
+ The infeasibility of X*  === 4.35116683e-09 
+ Final ||X-G||            ===== 3.79138841e+00 
+ Primal function value    ===== 7.18731305e+00 
+ Computing time           ======= 0.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  10 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 33 
+ Total num of CG          = 70 
+ Total num of eigendecom  = 45 
+ The rank of  X*          === 10 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.90e-06 
+ The infeasibility of X*  === 1.10161874e-08 
+ Final ||X-G||            ===== 3.46201799e+00 
+ Primal function value    ===== 5.99278427e+00 
+ Computing time           ======= 0.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  11 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 19 
+ Total num of iter in CN  = 52 
+ Total num of CG          = 118 
+ Total num of eigendecom  = 72 
+ The rank of  X*          === 11 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.34e-06 
+ The infeasibility of X*  === 4.10930032e-08 
+ Final ||X-G||            ===== 3.24102499e+00 
+ Primal function value    ===== 5.25212149e+00 
+ Computing time           ======= 1.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  12 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 20 
+ Total num of iter in CN  = 56 
+ Total num of CG          = 116 
+ Total num of eigendecom  = 77 
+ The rank of  X*          === 12 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.47e-06 
+ The infeasibility of X*  === 2.53556589e-07 
+ Final ||X-G||            ===== 3.08252055e+00 
+ Primal function value    ===== 4.75096648e+00 
+ Computing time           ======= 1.6(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  13 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 7 
+ Total num of iter in CN  = 29 
+ Total num of CG          = 60 
+ Total num of eigendecom  = 37 
+ The rank of  X*          === 13 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.25e-06 
+ The infeasibility of X*  === 6.82629809e-07 
+ Final ||X-G||            ===== 2.99621027e+00 
+ Primal function value    ===== 4.48863800e+00 
+ Computing time           ======= 0.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  14 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 19 
+ Total num of iter in CN  = 56 
+ Total num of CG          = 119 
+ Total num of eigendecom  = 76 
+ The rank of  X*          === 14 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.88e-06 
+ The infeasibility of X*  === 1.99521234e-07 
+ Final ||X-G||            ===== 2.80632855e+00 
+ Primal function value    ===== 3.93773997e+00 
+ Computing time           ======= 1.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  15 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 23 
+ Total num of iter in CN  = 57 
+ Total num of CG          = 115 
+ Total num of eigendecom  = 81 
+ The rank of  X*          === 15 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.57e-06 
+ The infeasibility of X*  === 9.04965246e-08 
+ Final ||X-G||            ===== 2.67989096e+00 
+ Primal function value    ===== 3.59090778e+00 
+ Computing time           ======= 1.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  16 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 13 
+ Total num of iter in CN  = 36 
+ Total num of CG          = 69 
+ Total num of eigendecom  = 50 
+ The rank of  X*          === 16 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.27e-06 
+ The infeasibility of X*  === 3.41587240e-07 
+ Final ||X-G||            ===== 2.60496338e+00 
+ Primal function value    ===== 3.39291710e+00 
+ Computing time           ======= 1.0(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  17 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 33 
+ Total num of CG          = 68 
+ Total num of eigendecom  = 45 
+ The rank of  X*          === 17 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.67e-06 
+ The infeasibility of X*  === 5.49959099e-07 
+ Final ||X-G||            ===== 2.51955447e+00 
+ Primal function value    ===== 3.17407735e+00 
+ Computing time           ======= 0.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  18 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 26 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 18 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.70e-06 
+ The infeasibility of X*  === 6.72937043e-07 
+ Final ||X-G||            ===== 2.41233037e+00 
+ Primal function value    ===== 2.90966890e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  19 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 26 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 19 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.11e-06 
+ The infeasibility of X*  === 5.76199556e-07 
+ Final ||X-G||            ===== 2.38390032e+00 
+ Primal function value    ===== 2.84149037e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 29 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.35e-06 
+ The infeasibility of X*  === 8.38431813e-07 
+ Final ||X-G||            ===== 2.36712356e+00 
+ Primal function value    ===== 2.80163697e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  21 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 21 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706694e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  22 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 34 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 22 
+ The rank error           === 0.00e+00 
+ The rel func error       === 4.70e-06 
+ The infeasibility of X*  === 1.26463070e-07 
+ Final ||X-G||            ===== 2.33939744e+00 
+ Primal function value    ===== 2.73639018e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  23 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 14 
+ Total num of CG          = 30 
+ Total num of eigendecom  = 19 
+ The rank of  X*          === 23 
+ The rank error           === 0.00e+00 
+ The rel func error       === 3.99e-06 
+ The infeasibility of X*  === 2.16540808e-07 
+ Final ||X-G||            ===== 2.32820311e+00 
+ Primal function value    ===== 2.71026486e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  24 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 5 
+ Total num of iter in CN  = 14 
+ Total num of CG          = 30 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 24 
+ The rank error           === 0.00e+00 
+ The rel func error       === 2.80e-06 
+ The infeasibility of X*  === 1.82484572e-07 
+ Final ||X-G||            ===== 2.32236948e+00 
+ Primal function value    ===== 2.69670000e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  25 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 22 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 25 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.02e-06 
+ The infeasibility of X*  === 4.37389564e-07 
+ Final ||X-G||            ===== 2.31524921e+00 
+ Primal function value    ===== 2.68018945e+00 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  26 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 22 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 26 
+ The rank error           === 0.00e+00 
+ The rel func error       === 3.04e-06 
+ The infeasibility of X*  === 1.06481225e-07 
+ Final ||X-G||            ===== 2.30991366e+00 
+ Primal function value    ===== 2.66785057e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   1 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 16 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 1 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.39e-10 
+ The infeasibility of X*  === 3.11468503e-08 
+ Final ||X-G||            ===== 2.25428202e+01 
+ Primal function value    ===== 2.54089370e+02 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   1 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 16 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 1 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.39e-10 
+ The infeasibility of X*  === 3.11468503e-08 
+ Final ||X-G||            ===== 2.25428202e+01 
+ Primal function value    ===== 2.54089370e+02 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   1 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 16 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 1 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.39e-10 
+ The infeasibility of X*  === 3.11468503e-08 
+ Final ||X-G||            ===== 2.25428202e+01 
+ Primal function value    ===== 2.54089370e+02 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   1 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 16 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 1 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.39e-10 
+ The infeasibility of X*  === 3.11468503e-08 
+ Final ||X-G||            ===== 2.25428202e+01 
+ Primal function value    ===== 2.54089370e+02 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   1 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 16 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 1 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.39e-10 
+ The infeasibility of X*  === 3.11468503e-08 
+ Final ||X-G||            ===== 2.25428202e+01 
+ Primal function value    ===== 2.54089370e+02 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   1 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 16 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 1 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.39e-10 
+ The infeasibility of X*  === 3.11468503e-08 
+ Final ||X-G||            ===== 2.25428202e+01 
+ Primal function value    ===== 2.54089370e+02 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   2 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 23 
+ Total num of iter in CN  = 69 
+ Total num of CG          = 151 
+ Total num of eigendecom  = 93 
+ The rank of  X*          === 2 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.70e-06 
+ The infeasibility of X*  === 1.08221610e-08 
+ Final ||X-G||            ===== 1.32767864e+01 
+ Primal function value    ===== 8.81365281e+01 
+ Computing time           ======= 1.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   3 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 21 
+ Total num of iter in CN  = 58 
+ Total num of CG          = 147 
+ Total num of eigendecom  = 80 
+ The rank of  X*          === 3 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.83e-06 
+ The infeasibility of X*  === 8.74599674e-08 
+ Final ||X-G||            ===== 9.80861050e+00 
+ Primal function value    ===== 4.81044200e+01 
+ Computing time           ======= 1.6(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   4 
+ ---------------------------------------------------- 
+ Num of pen level         = 6 
+ Num of calling CN        = 24 
+ Total num of iter in CN  = 65 
+ Total num of CG          = 155 
+ Total num of eigendecom  = 90 
+ The rank of  X*          === 4 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.12e-05 
+ The infeasibility of X*  === 8.25251207e-09 
+ Final ||X-G||            ===== 7.69627262e+00 
+ Primal function value    ===== 2.96163061e+01 
+ Computing time           ======= 1.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   5 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 13 
+ Total num of iter in CN  = 44 
+ Total num of CG          = 98 
+ Total num of eigendecom  = 58 
+ The rank of  X*          === 5 
+ The rank error           === 0.00e+00 
+ The rel func error       === 3.93e-06 
+ The infeasibility of X*  === 9.50475547e-07 
+ Final ||X-G||            ===== 6.05812004e+00 
+ Primal function value    ===== 1.83504092e+01 
+ Computing time           ======= 1.1(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   6 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 7 
+ Total num of iter in CN  = 25 
+ Total num of CG          = 54 
+ Total num of eigendecom  = 33 
+ The rank of  X*          === 6 
+ The rank error           === 0.00e+00 
+ The rel func error       === 2.70e-06 
+ The infeasibility of X*  === 8.32006428e-08 
+ Final ||X-G||            ===== 5.45190366e+00 
+ Primal function value    ===== 1.48616267e+01 
+ Computing time           ======= 0.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 17 
+ Total num of iter in CN  = 47 
+ Total num of CG          = 92 
+ Total num of eigendecom  = 65 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.72e-06 
+ The infeasibility of X*  === 1.20184546e-07 
+ Final ||X-G||            ===== 4.72621634e+00 
+ Primal function value    ===== 1.11685605e+01 
+ Computing time           ======= 1.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   8 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 9 
+ Total num of iter in CN  = 28 
+ Total num of CG          = 52 
+ Total num of eigendecom  = 38 
+ The rank of  X*          === 8 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.43e-06 
+ The infeasibility of X*  === 1.23632946e-07 
+ Final ||X-G||            ===== 4.21646751e+00 
+ Primal function value    ===== 8.88929915e+00 
+ Computing time           ======= 0.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   9 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 32 
+ Total num of CG          = 63 
+ Total num of eigendecom  = 44 
+ The rank of  X*          === 9 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.40e-06 
+ The infeasibility of X*  === 4.35116683e-09 
+ Final ||X-G||            ===== 3.79138841e+00 
+ Primal function value    ===== 7.18731305e+00 
+ Computing time           ======= 0.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  10 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 33 
+ Total num of CG          = 70 
+ Total num of eigendecom  = 45 
+ The rank of  X*          === 10 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.90e-06 
+ The infeasibility of X*  === 1.10161874e-08 
+ Final ||X-G||            ===== 3.46201799e+00 
+ Primal function value    ===== 5.99278427e+00 
+ Computing time           ======= 0.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  11 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 19 
+ Total num of iter in CN  = 52 
+ Total num of CG          = 118 
+ Total num of eigendecom  = 72 
+ The rank of  X*          === 11 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.34e-06 
+ The infeasibility of X*  === 4.10930032e-08 
+ Final ||X-G||            ===== 3.24102499e+00 
+ Primal function value    ===== 5.25212149e+00 
+ Computing time           ======= 1.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  12 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 20 
+ Total num of iter in CN  = 56 
+ Total num of CG          = 116 
+ Total num of eigendecom  = 77 
+ The rank of  X*          === 12 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.47e-06 
+ The infeasibility of X*  === 2.53556589e-07 
+ Final ||X-G||            ===== 3.08252055e+00 
+ Primal function value    ===== 4.75096648e+00 
+ Computing time           ======= 1.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  13 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 7 
+ Total num of iter in CN  = 29 
+ Total num of CG          = 60 
+ Total num of eigendecom  = 37 
+ The rank of  X*          === 13 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.25e-06 
+ The infeasibility of X*  === 6.82629809e-07 
+ Final ||X-G||            ===== 2.99621027e+00 
+ Primal function value    ===== 4.48863800e+00 
+ Computing time           ======= 0.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  14 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 19 
+ Total num of iter in CN  = 56 
+ Total num of CG          = 119 
+ Total num of eigendecom  = 76 
+ The rank of  X*          === 14 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.88e-06 
+ The infeasibility of X*  === 1.99521234e-07 
+ Final ||X-G||            ===== 2.80632855e+00 
+ Primal function value    ===== 3.93773997e+00 
+ Computing time           ======= 1.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  15 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 23 
+ Total num of iter in CN  = 57 
+ Total num of CG          = 115 
+ Total num of eigendecom  = 81 
+ The rank of  X*          === 15 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.57e-06 
+ The infeasibility of X*  === 9.04965246e-08 
+ Final ||X-G||            ===== 2.67989096e+00 
+ Primal function value    ===== 3.59090778e+00 
+ Computing time           ======= 1.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  16 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 13 
+ Total num of iter in CN  = 36 
+ Total num of CG          = 69 
+ Total num of eigendecom  = 50 
+ The rank of  X*          === 16 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.27e-06 
+ The infeasibility of X*  === 3.41587240e-07 
+ Final ||X-G||            ===== 2.60496338e+00 
+ Primal function value    ===== 3.39291710e+00 
+ Computing time           ======= 1.0(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  17 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 33 
+ Total num of CG          = 68 
+ Total num of eigendecom  = 45 
+ The rank of  X*          === 17 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.67e-06 
+ The infeasibility of X*  === 5.49959099e-07 
+ Final ||X-G||            ===== 2.51955447e+00 
+ Primal function value    ===== 3.17407735e+00 
+ Computing time           ======= 1.0(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  18 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 26 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 18 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.70e-06 
+ The infeasibility of X*  === 6.72937043e-07 
+ Final ||X-G||            ===== 2.41233037e+00 
+ Primal function value    ===== 2.90966890e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  19 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 26 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 19 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.11e-06 
+ The infeasibility of X*  === 5.76199556e-07 
+ Final ||X-G||            ===== 2.38390032e+00 
+ Primal function value    ===== 2.84149037e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 29 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.35e-06 
+ The infeasibility of X*  === 8.38431813e-07 
+ Final ||X-G||            ===== 2.36712356e+00 
+ Primal function value    ===== 2.80163697e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  21 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 21 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706694e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  22 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 34 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 22 
+ The rank error           === 0.00e+00 
+ The rel func error       === 4.70e-06 
+ The infeasibility of X*  === 1.26463070e-07 
+ Final ||X-G||            ===== 2.33939744e+00 
+ Primal function value    ===== 2.73639018e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  23 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 14 
+ Total num of CG          = 30 
+ Total num of eigendecom  = 19 
+ The rank of  X*          === 23 
+ The rank error           === 0.00e+00 
+ The rel func error       === 3.99e-06 
+ The infeasibility of X*  === 2.16540808e-07 
+ Final ||X-G||            ===== 2.32820311e+00 
+ Primal function value    ===== 2.71026486e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  24 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 5 
+ Total num of iter in CN  = 14 
+ Total num of CG          = 30 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 24 
+ The rank error           === 0.00e+00 
+ The rel func error       === 2.80e-06 
+ The infeasibility of X*  === 1.82484572e-07 
+ Final ||X-G||            ===== 2.32236948e+00 
+ Primal function value    ===== 2.69670000e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  25 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 22 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 25 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.02e-06 
+ The infeasibility of X*  === 4.37389564e-07 
+ Final ||X-G||            ===== 2.31524921e+00 
+ Primal function value    ===== 2.68018945e+00 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  26 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 22 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 26 
+ The rank error           === 0.00e+00 
+ The rel func error       === 3.04e-06 
+ The infeasibility of X*  === 1.06481225e-07 
+ Final ||X-G||            ===== 2.30991366e+00 
+ Primal function value    ===== 2.66785057e+00 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   1 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 16 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 1 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.39e-10 
+ The infeasibility of X*  === 3.11468503e-08 
+ Final ||X-G||            ===== 2.25428202e+01 
+ Primal function value    ===== 2.54089370e+02 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   2 
+ ---------------------------------------------------- 
+ Num of pen level         = 5 
+ Num of calling CN        = 25 
+ Total num of iter in CN  = 72 
+ Total num of CG          = 158 
+ Total num of eigendecom  = 98 
+ The rank of  X*          === 2 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.69e-06 
+ The infeasibility of X*  === 2.18687494e-08 
+ Final ||X-G||            ===== 1.32771988e+01 
+ Primal function value    ===== 8.81420040e+01 
+ Computing time           ======= 1.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   3 
+ ---------------------------------------------------- 
+ Num of pen level         = 6 
+ Num of calling CN        = 25 
+ Total num of iter in CN  = 67 
+ Total num of CG          = 157 
+ Total num of eigendecom  = 93 
+ The rank of  X*          === 3 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.04e-05 
+ The infeasibility of X*  === 4.24769567e-08 
+ Final ||X-G||            ===== 9.81845024e+00 
+ Primal function value    ===== 4.82009826e+01 
+ Computing time           ======= 2.0(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   1 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 16 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 1 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.39e-10 
+ The infeasibility of X*  === 3.11468503e-08 
+ Final ||X-G||            ===== 2.25428202e+01 
+ Primal function value    ===== 2.54089370e+02 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   2 
+ ---------------------------------------------------- 
+ Num of pen level         = 5 
+ Num of calling CN        = 26 
+ Total num of iter in CN  = 74 
+ Total num of CG          = 178 
+ Total num of eigendecom  = 101 
+ The rank of  X*          === 2 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.88e-06 
+ The infeasibility of X*  === 5.51986028e-09 
+ Final ||X-G||            ===== 1.32809307e+01 
+ Primal function value    ===== 8.81915605e+01 
+ Computing time           ======= 2.1(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   3 
+ ---------------------------------------------------- 
+ Num of pen level         = 5 
+ Num of calling CN        = 22 
+ Total num of iter in CN  = 67 
+ Total num of CG          = 174 
+ Total num of eigendecom  = 90 
+ The rank of  X*          === 3 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.98e-06 
+ The infeasibility of X*  === 3.20648988e-08 
+ Final ||X-G||            ===== 9.81185718e+00 
+ Primal function value    ===== 4.81362706e+01 
+ Computing time           ======= 2.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   4 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 21 
+ Total num of iter in CN  = 54 
+ Total num of CG          = 124 
+ Total num of eigendecom  = 76 
+ The rank of  X*          === 4 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.06e-06 
+ The infeasibility of X*  === 8.75564098e-08 
+ Final ||X-G||            ===== 7.68158142e+00 
+ Primal function value    ===== 2.95033466e+01 
+ Computing time           ======= 1.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   5 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 9 
+ Total num of iter in CN  = 32 
+ Total num of CG          = 62 
+ Total num of eigendecom  = 42 
+ The rank of  X*          === 5 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.60e-06 
+ The infeasibility of X*  === 6.13691504e-07 
+ Final ||X-G||            ===== 6.06153382e+00 
+ Primal function value    ===== 1.83710961e+01 
+ Computing time           ======= 0.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   6 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 7 
+ Total num of iter in CN  = 25 
+ Total num of CG          = 54 
+ Total num of eigendecom  = 33 
+ The rank of  X*          === 6 
+ The rank error           === 0.00e+00 
+ The rel func error       === 2.70e-06 
+ The infeasibility of X*  === 8.32006428e-08 
+ Final ||X-G||            ===== 5.45190366e+00 
+ Primal function value    ===== 1.48616267e+01 
+ Computing time           ======= 0.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   1 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 16 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 1 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.39e-10 
+ The infeasibility of X*  === 3.11468503e-08 
+ Final ||X-G||            ===== 2.25428202e+01 
+ Primal function value    ===== 2.54089370e+02 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   2 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 23 
+ Total num of iter in CN  = 69 
+ Total num of CG          = 152 
+ Total num of eigendecom  = 93 
+ The rank of  X*          === 2 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.75e-06 
+ The infeasibility of X*  === 1.27716557e-08 
+ Final ||X-G||            ===== 1.32769963e+01 
+ Primal function value    ===== 8.81393153e+01 
+ Computing time           ======= 1.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   3 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 21 
+ Total num of iter in CN  = 59 
+ Total num of CG          = 155 
+ Total num of eigendecom  = 81 
+ The rank of  X*          === 3 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.91e-06 
+ The infeasibility of X*  === 1.71101808e-08 
+ Final ||X-G||            ===== 9.81200033e+00 
+ Primal function value    ===== 4.81376752e+01 
+ Computing time           ======= 1.6(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   4 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 21 
+ Total num of iter in CN  = 54 
+ Total num of CG          = 126 
+ Total num of eigendecom  = 76 
+ The rank of  X*          === 4 
+ The rank error           === 0.00e+00 
+ The rel func error       === 1.01e-05 
+ The infeasibility of X*  === 4.82735149e-08 
+ Final ||X-G||            ===== 7.68443095e+00 
+ Primal function value    ===== 2.95252395e+01 
+ Computing time           ======= 1.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   5 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 14 
+ Total num of iter in CN  = 48 
+ Total num of CG          = 107 
+ Total num of eigendecom  = 63 
+ The rank of  X*          === 5 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.57e-06 
+ The infeasibility of X*  === 9.97950928e-08 
+ Final ||X-G||            ===== 6.06612878e+00 
+ Primal function value    ===== 1.83989592e+01 
+ Computing time           ======= 1.2(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   6 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 7 
+ Total num of iter in CN  = 25 
+ Total num of CG          = 54 
+ Total num of eigendecom  = 33 
+ The rank of  X*          === 6 
+ The rank error           === 0.00e+00 
+ The rel func error       === 2.70e-06 
+ The infeasibility of X*  === 8.32006428e-08 
+ Final ||X-G||            ===== 5.45190366e+00 
+ Primal function value    ===== 1.48616267e+01 
+ Computing time           ======= 0.6(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   7 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 17 
+ Total num of iter in CN  = 47 
+ Total num of CG          = 92 
+ Total num of eigendecom  = 65 
+ The rank of  X*          === 7 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.72e-06 
+ The infeasibility of X*  === 1.20184546e-07 
+ Final ||X-G||            ===== 4.72621634e+00 
+ Primal function value    ===== 1.11685605e+01 
+ Computing time           ======= 1.2(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   8 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 9 
+ Total num of iter in CN  = 28 
+ Total num of CG          = 52 
+ Total num of eigendecom  = 38 
+ The rank of  X*          === 8 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.43e-06 
+ The infeasibility of X*  === 1.23632946e-07 
+ Final ||X-G||            ===== 4.21646751e+00 
+ Primal function value    ===== 8.88929915e+00 
+ Computing time           ======= 0.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=   9 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 32 
+ Total num of CG          = 63 
+ Total num of eigendecom  = 44 
+ The rank of  X*          === 9 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.40e-06 
+ The infeasibility of X*  === 4.35116683e-09 
+ Final ||X-G||            ===== 3.79138841e+00 
+ Primal function value    ===== 7.18731305e+00 
+ Computing time           ======= 0.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  10 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 33 
+ Total num of CG          = 70 
+ Total num of eigendecom  = 45 
+ The rank of  X*          === 10 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.90e-06 
+ The infeasibility of X*  === 1.10161874e-08 
+ Final ||X-G||            ===== 3.46201799e+00 
+ Primal function value    ===== 5.99278427e+00 
+ Computing time           ======= 0.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  11 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 19 
+ Total num of iter in CN  = 52 
+ Total num of CG          = 118 
+ Total num of eigendecom  = 72 
+ The rank of  X*          === 11 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.34e-06 
+ The infeasibility of X*  === 4.10930032e-08 
+ Final ||X-G||            ===== 3.24102499e+00 
+ Primal function value    ===== 5.25212149e+00 
+ Computing time           ======= 1.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  12 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 20 
+ Total num of iter in CN  = 56 
+ Total num of CG          = 116 
+ Total num of eigendecom  = 77 
+ The rank of  X*          === 12 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.47e-06 
+ The infeasibility of X*  === 2.53556589e-07 
+ Final ||X-G||            ===== 3.08252055e+00 
+ Primal function value    ===== 4.75096648e+00 
+ Computing time           ======= 1.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  13 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 7 
+ Total num of iter in CN  = 29 
+ Total num of CG          = 60 
+ Total num of eigendecom  = 37 
+ The rank of  X*          === 13 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.25e-06 
+ The infeasibility of X*  === 6.82629809e-07 
+ Final ||X-G||            ===== 2.99621027e+00 
+ Primal function value    ===== 4.48863800e+00 
+ Computing time           ======= 0.8(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  14 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 19 
+ Total num of iter in CN  = 56 
+ Total num of CG          = 119 
+ Total num of eigendecom  = 76 
+ The rank of  X*          === 14 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.88e-06 
+ The infeasibility of X*  === 1.99521234e-07 
+ Final ||X-G||            ===== 2.80632855e+00 
+ Primal function value    ===== 3.93773997e+00 
+ Computing time           ======= 1.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  15 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 23 
+ Total num of iter in CN  = 57 
+ Total num of CG          = 115 
+ Total num of eigendecom  = 81 
+ The rank of  X*          === 15 
+ The rank error           === 0.00e+00 
+ The rel func error       === 9.57e-06 
+ The infeasibility of X*  === 9.04965246e-08 
+ Final ||X-G||            ===== 2.67989096e+00 
+ Primal function value    ===== 3.59090778e+00 
+ Computing time           ======= 1.7(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  16 
+ ---------------------------------------------------- 
+ Num of pen level         = 4 
+ Num of calling CN        = 13 
+ Total num of iter in CN  = 36 
+ Total num of CG          = 69 
+ Total num of eigendecom  = 50 
+ The rank of  X*          === 16 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.27e-06 
+ The infeasibility of X*  === 3.41587240e-07 
+ Final ||X-G||            ===== 2.60496338e+00 
+ Primal function value    ===== 3.39291710e+00 
+ Computing time           ======= 1.1(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  17 
+ ---------------------------------------------------- 
+ Num of pen level         = 3 
+ Num of calling CN        = 11 
+ Total num of iter in CN  = 33 
+ Total num of CG          = 68 
+ Total num of eigendecom  = 45 
+ The rank of  X*          === 17 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.67e-06 
+ The infeasibility of X*  === 5.49959099e-07 
+ Final ||X-G||            ===== 2.51955447e+00 
+ Primal function value    ===== 3.17407735e+00 
+ Computing time           ======= 0.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  18 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 26 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 18 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.70e-06 
+ The infeasibility of X*  === 6.72937043e-07 
+ Final ||X-G||            ===== 2.41233037e+00 
+ Primal function value    ===== 2.90966890e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  19 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 26 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 19 
+ The rank error           === 0.00e+00 
+ The rel func error       === 8.11e-06 
+ The infeasibility of X*  === 5.76199556e-07 
+ Final ||X-G||            ===== 2.38390032e+00 
+ Primal function value    ===== 2.84149037e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 29 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.35e-06 
+ The infeasibility of X*  === 8.38431813e-07 
+ Final ||X-G||            ===== 2.36712356e+00 
+ Primal function value    ===== 2.80163697e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  21 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 21 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706694e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  22 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 34 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 22 
+ The rank error           === 0.00e+00 
+ The rel func error       === 4.70e-06 
+ The infeasibility of X*  === 1.26463070e-07 
+ Final ||X-G||            ===== 2.33939744e+00 
+ Primal function value    ===== 2.73639018e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  23 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 14 
+ Total num of CG          = 30 
+ Total num of eigendecom  = 19 
+ The rank of  X*          === 23 
+ The rank error           === 0.00e+00 
+ The rel func error       === 3.99e-06 
+ The infeasibility of X*  === 2.16540808e-07 
+ Final ||X-G||            ===== 2.32820311e+00 
+ Primal function value    ===== 2.71026486e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  24 
+ ---------------------------------------------------- 
+ Num of pen level         = 2 
+ Num of calling CN        = 5 
+ Total num of iter in CN  = 14 
+ Total num of CG          = 30 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 24 
+ The rank error           === 0.00e+00 
+ The rel func error       === 2.80e-06 
+ The infeasibility of X*  === 1.82484572e-07 
+ Final ||X-G||            ===== 2.32236948e+00 
+ Primal function value    ===== 2.69670000e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  25 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 22 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 25 
+ The rank error           === 0.00e+00 
+ The rel func error       === 7.02e-06 
+ The infeasibility of X*  === 4.37389564e-07 
+ Final ||X-G||            ===== 2.31524921e+00 
+ Primal function value    ===== 2.68018945e+00 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  64 
+ Fixed upper-diag entries  =  64 
+ The required rank of X   <=  26 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 3 
+ Total num of iter in CN  = 11 
+ Total num of CG          = 22 
+ Total num of eigendecom  = 15 
+ The rank of  X*          === 26 
+ The rank error           === 0.00e+00 
+ The rel func error       === 3.04e-06 
+ The infeasibility of X*  === 1.06481225e-07 
+ Final ||X-G||            ===== 2.30991366e+00 
+ Primal function value    ===== 2.66785057e+00 
+ Computing time           ======= 0.3(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.6(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.9(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.4(secs) 
+ ********************************************************* 
+
+ ************ result_PenCorr ******************
+  The problem information: 
+ Dimension of SDP constr.  =  63 
+ Fixed upper-diag entries  =  63 
+ The required rank of X   <=  20 
+ ---------------------------------------------------- 
+ Num of pen level         = 1 
+ Num of calling CN        = 4 
+ Total num of iter in CN  = 15 
+ Total num of CG          = 32 
+ Total num of eigendecom  = 20 
+ The rank of  X*          === 20 
+ The rank error           === 0.00e+00 
+ The rel func error       === 5.86e-06 
+ The infeasibility of X*  === 5.25706686e-07 
+ Final ||X-G||            ===== 2.35194548e+00 
+ Primal function value    ===== 2.76582378e+00 
+ Computing time           ======= 0.5(secs) 
+ ********************************************************* 

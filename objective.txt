@@ -1,0 +1,34 @@
+rewrite python code
+
+Send the code already written
+
+
+evaluate 
+eigenvalues divided by total number
+plot on a graph
+
+see how reducing rank affects the NCC
+
+
+
+take subset of A
+make new X
+leftover points match to the new "50x50" matrix X
+minimize squared error
+ensure it is still normed
+compare with original optimization
+
+
+original 64 x 64
+map to new X with rank constraint
+X becomes 64 x 5
+
+take subset (maybe 50x50)
+map another X
+X becomes 50 x 5
+
+
+Using some vector part of the 14, we "compare" with the 50 to see how different it is from the original (vector norm)
+
+
+
